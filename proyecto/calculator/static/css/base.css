@@ -54,3 +54,27 @@ h1 {
 .gap-3 {
     gap: 1rem;
 }
+
+/* Estilos adicionales para biseccion.html */
+.title-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #db3f59;
+    
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.title {
+    font-size: 32px;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.subtitle {
+    font-size: 15px;
+    text-align: center;
+}
